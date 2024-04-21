@@ -8,6 +8,7 @@ int main_29(){
 
     int x = 10;
     int y = 9;
+    
     cout << (x > y) << endl; // returns 1 (true), because 10 is higher than 9
 
     cout << (10 > 9) << endl; // returns 1 (true), because 10 is higher than 9
